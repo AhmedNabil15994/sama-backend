@@ -1,0 +1,9 @@
+<?php
+
+return [
+
+    'CLIENT_IDENTIFIER' => env('CLIENT_IDENTIFIER', 'ed87fd70883fb778b96f803e59eaea8a8363f1c2'),
+    'CLIENT_SECRETS' => env('CLIENT_SECRETS', '+QkIsgPR5p1ntQJ4Z6jKF2Vwgtq6TNdslOaJ523X5M158Fq4kgUH1o2VLpKYKqrEMk9g6K/PrvHNvnTuWOFRWfKEUVu/MgzcyAr+FIWHzQ6hM3moKgBiF449ZTya6fSC'),
+    'ACCESS_TOKEN' => env('ACCESS_TOKEN', '29297410918774e79e3195363f302d44'),
+    'BASE_URL' => env('BASE_URL', 'https://api.vimeo.com'),
+];
